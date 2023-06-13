@@ -1,6 +1,6 @@
 <template>
     <h1>About</h1>
-    <SimpleComponent />
+    <LazySimpleComponent />
 </template>
 
 <script setup lang="ts">
